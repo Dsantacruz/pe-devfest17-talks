@@ -4,4 +4,5 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="catalog_title">Hi from DevFest</string>
+    <string name="catalog_items_image_url">http://lorempixel.com/313/176/</string>
 </resources>

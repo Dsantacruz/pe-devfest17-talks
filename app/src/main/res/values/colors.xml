@@ -12,4 +12,9 @@
     <!-- Colores para icono de busqueda y barra con encabezados -->
     <color name="color_app_fastlane_background">#3F51B5</color>
     <color name="color_app_search_opaque">#03A9F4</color>
+    <!-- Colores para items del catalogo, de acuerdo al tipo de evento (talk, workshop) -->
+    <color name="color_app_catalog_item_area_bg">#F57C00</color>
+    <color name="color_app_catalog_item_area_bg_dark">#FF6F00</color>
+    <color name="color_app_catalog_item_area_bg_alt">#00796B</color>
+    <color name="color_app_catalog_item_area_bg_dark_alt">#004D40</color>
 </resources>

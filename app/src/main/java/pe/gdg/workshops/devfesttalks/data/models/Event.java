@@ -1,6 +1,5 @@
 package pe.gdg.workshops.devfesttalks.data.models;
 
-
 import android.os.Parcel;
 import android.os.Parcelable;
 
@@ -13,12 +12,13 @@ import java.util.List;
 /**
  * The type Event.
  */
-public final class Event implements Parcelable {
+public class Event implements Parcelable {
 
     /**
      * The constant CREATOR.
      */
     public final static Parcelable.Creator<Event> CREATOR = new Creator<Event>() {
+
 
         @SuppressWarnings({
                 "unchecked"
@@ -31,6 +31,8 @@ public final class Event implements Parcelable {
             instance.location = ((String) in.readValue((String.class.getClassLoader())));
             instance.category = ((String) in.readValue((String.class.getClassLoader())));
             instance.date = ((String) in.readValue((String.class.getClassLoader())));
+            instance.cardImage = ((String) in.readValue((String.class.getClassLoader())));
+            instance.backgroundImage = ((String) in.readValue((String.class.getClassLoader())));
             in.readList(instance.speaker, (java.lang.String.class.getClassLoader()));
             return instance;
         }
@@ -40,7 +42,6 @@ public final class Event implements Parcelable {
         }
 
     };
-
     @SerializedName("title")
     @Expose
     private String title;
@@ -59,9 +60,15 @@ public final class Event implements Parcelable {
     @SerializedName("date")
     @Expose
     private String date;
+    @SerializedName("cardImage")
+    @Expose
+    private String cardImage;
+    @SerializedName("backgroundImage")
+    @Expose
+    private String backgroundImage;
     @SerializedName("speaker")
     @Expose
-    private List<String> speaker = new ArrayList<>();
+    private List<String> speaker = new ArrayList<String>();
 
     /**
      * Gets title.
@@ -172,6 +179,42 @@ public final class Event implements Parcelable {
     }
 
     /**
+     * Gets card image.
+     *
+     * @return the card image
+     */
+    public String getCardImage() {
+        return cardImage;
+    }
+
+    /**
+     * Sets card image.
+     *
+     * @param cardImage the card image
+     */
+    public void setCardImage(String cardImage) {
+        this.cardImage = cardImage;
+    }
+
+    /**
+     * Gets background image.
+     *
+     * @return the background image
+     */
+    public String getBackgroundImage() {
+        return backgroundImage;
+    }
+
+    /**
+     * Sets background image.
+     *
+     * @param backgroundImage the background image
+     */
+    public void setBackgroundImage(String backgroundImage) {
+        this.backgroundImage = backgroundImage;
+    }
+
+    /**
      * Gets speaker.
      *
      * @return the speaker
@@ -196,6 +239,8 @@ public final class Event implements Parcelable {
         dest.writeValue(location);
         dest.writeValue(category);
         dest.writeValue(date);
+        dest.writeValue(cardImage);
+        dest.writeValue(backgroundImage);
         dest.writeList(speaker);
     }
 

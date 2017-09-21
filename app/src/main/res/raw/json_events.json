@@ -6,6 +6,8 @@
     "location": "Auditorio",
     "category": "General",
     "date": "2017-09-23 10:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=1",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Renzo Sanchez (Perú)"
     ]
@@ -17,6 +19,8 @@
     "location": "Track 1",
     "category": "Android",
     "date": "2017-09-23 10:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=2",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Leonidas Esteban (Colombia)"
     ]
@@ -28,6 +32,8 @@
     "location": "Track 2",
     "category": "Web",
     "date": "2017-09-23 10:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=3",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=50",
     "speaker": [
       "Jose Luis Bugarin (Perú)"
     ]
@@ -39,6 +45,8 @@
     "location": "Track 3",
     "category": "Web",
     "date": "2017-09-23 10:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=4",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=50",
     "speaker": [
       "Eduardo Sarria (Perú)"
     ]
@@ -50,6 +58,8 @@
     "location": "Track 4",
     "category": "General",
     "date": "2017-09-23 10:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=5",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Romina Díaz (Perú)"
     ]
@@ -61,6 +71,8 @@
     "location": "Workshop 2",
     "category": "Firebase",
     "date": "2017-09-23 11:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=6",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=70",
     "speaker": [
       "Juan Guillermo (Colombia)"
     ]
@@ -72,6 +84,8 @@
     "location": "Workshop 2",
     "category": "Cloud",
     "date": "2017-09-23 11:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=7",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=20",
     "speaker": [
       "Juan Guillermo (Colombia)"
     ]
@@ -81,8 +95,10 @@
     "type": "Talk",
     "level": "Intermedio",
     "location": "Auditorio",
-    "category": "Artificial intelligence",
+    "category": "Artificial Intelligence",
     "date": "2017-09-23 11:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=8",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=30",
     "speaker": [
       "Pablo Perez De Angelis (Argentina)"
     ]
@@ -94,6 +110,8 @@
     "location": "Track 1",
     "category": "Android",
     "date": "2017-09-23 12:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=9",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Pablo Johnson (Perú)"
     ]
@@ -105,6 +123,8 @@
     "location": "Track 2",
     "category": "Web",
     "date": "2017-09-23 12:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=10",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=50",
     "speaker": [
       "Luis Suárez (Perú)"
     ]
@@ -116,6 +136,8 @@
     "location": "Track 3",
     "category": "Cloud",
     "date": "2017-09-23 12:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=11",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=20",
     "speaker": [
       "Isabel Falla (Perú)"
     ]
@@ -127,6 +149,8 @@
     "location": "Track 4",
     "category": "Web",
     "date": "2017-09-23 12:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=12",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=50",
     "speaker": [
       "Michela Mosquera (Perú)"
     ]
@@ -138,6 +162,8 @@
     "location": "Track 4",
     "category": "General",
     "date": "2017-09-23 12:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=13",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Edward Ramirez (Colombia)"
     ]
@@ -149,6 +175,8 @@
     "location": "Track 1",
     "category": "Android",
     "date": "2017-09-23 14:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=14",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Bruno Aybar (Perú)"
     ]
@@ -160,6 +188,8 @@
     "location": "Track 2",
     "category": "Web",
     "date": "2017-09-23 14:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=15",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=50",
     "speaker": [
       "Katherine Moran (Perú)"
     ]
@@ -169,8 +199,10 @@
     "type": "Talk",
     "level": "Avanzado",
     "location": "Track 3",
-    "category": "Artificial intelligence",
+    "category": "Artificial Intelligence",
     "date": "2017-09-23 14:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=96",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=30",
     "speaker": [
       "Moises Salinas (Perú)"
     ]
@@ -182,6 +214,8 @@
     "location": "Track 4",
     "category": "General",
     "date": "2017-09-23 14:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=17",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Renzo Reyes (Perú)"
     ]
@@ -193,6 +227,8 @@
     "location": "Workshop 1",
     "category": "Android",
     "date": "2017-09-23 14:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=18",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Marlon López (Colombia)"
     ]
@@ -204,6 +240,8 @@
     "location": "Workshop 2",
     "category": "General",
     "date": "2017-09-23 14:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=19",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Elvis Rivera (Perú)"
     ]
@@ -215,6 +253,8 @@
     "location": "Auditorio",
     "category": "General",
     "date": "2017-09-23 15:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=20",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Danhalit Zamalloa (Venezuela)"
     ]
@@ -226,6 +266,8 @@
     "location": "Track 1",
     "category": "Android",
     "date": "2017-09-23 15:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=21",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Kevin Salazar (Perú)"
     ]
@@ -237,6 +279,8 @@
     "location": "Track 2",
     "category": "Web",
     "date": "2017-09-23 15:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=22",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=50",
     "speaker": [
       "Chris Ramón (Perú)"
     ]
@@ -246,21 +290,25 @@
     "type": "Talk",
     "level": "Intermedio",
     "location": "Track 3",
-    "category": "Artificial intelligence",
+    "category": "Artificial Intelligence",
     "date": "2017-09-23 15:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=23",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=30",
     "speaker": [
       "Bonnie Milián (Guatemala)"
     ]
   },
   {
-    "title": "Cómo hacer que Android te pague la comida",
+    "title": "El futuro del dinero",
     "type": "Talk",
     "level": "Principiante",
-    "location": "",
+    "location": "Auditorio",
     "category": "Android",
     "date": "2017-09-23 15:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=24",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
-      "Andres Vasquez (Bolivia)"
+      "Danhalit Zamalloa (Venezuela)"
     ]
   },
   {
@@ -270,6 +318,8 @@
     "location": "Auditorio",
     "category": "General",
     "date": "2017-09-23 16:30:00",
+    "cardImage": "https://unsplash.it/313/176?image=25",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Phillip Chu Joy (Perú)"
     ]
@@ -281,6 +331,8 @@
     "location": "Track 1",
     "category": "Android",
     "date": "2017-09-23 16:30:00",
+    "cardImage": "https://unsplash.it/313/176?image=26",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Axel Campos (Perú)"
     ]
@@ -292,6 +344,8 @@
     "location": "Track 2",
     "category": "Cloud",
     "date": "2017-09-23 16:30:00",
+    "cardImage": "https://unsplash.it/313/176?image=27",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=20",
     "speaker": [
       "Kenny Condezo (Perú)"
     ]
@@ -301,8 +355,10 @@
     "type": "Talk",
     "level": "Intermedio",
     "location": "Track 3",
-    "category": "Artificial intelligence",
+    "category": "Artificial Intelligence",
     "date": "2017-09-23 16:30:00",
+    "cardImage": "https://unsplash.it/313/176?image=28",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=30",
     "speaker": [
       "Miguel Aliaga (Perú)"
     ]
@@ -314,6 +370,8 @@
     "location": "Track 4",
     "category": "General",
     "date": "2017-09-23 16:30:00",
+    "cardImage": "https://unsplash.it/313/176?image=29",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Laura Santillán (Perú)"
     ]
@@ -323,8 +381,10 @@
     "type": "Workshop",
     "level": "Intermedio",
     "location": "Workshop 1",
-    "category": "Artificial intelligence",
+    "category": "Artificial Intelligence",
     "date": "2017-09-23 16:30:00",
+    "cardImage": "https://unsplash.it/313/176?image=30",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=30",
     "speaker": [
       "Bonnie Milián (Guatemala)"
     ]
@@ -336,6 +396,8 @@
     "location": "Workshop 2",
     "category": "General",
     "date": "2017-09-23 16:30:00",
+    "cardImage": "https://unsplash.it/313/176?image=31",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Juan Camilo Lema (Perú)"
     ]
@@ -344,9 +406,11 @@
     "title": "Inteligencia Artificial y Chatbots",
     "type": "Talk",
     "level": "Intermedio",
-    "location": " Auditorio",
-    "category": "Internet of things",
+    "location": "Auditorio",
+    "category": "Internet of Things",
     "date": "2017-09-24 10:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=32",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=88",
     "speaker": [
       "Carlos Cortez (Perú)"
     ]
@@ -355,9 +419,11 @@
     "title": "BLE Beacons y Más",
     "type": "Talk",
     "level": "Intermedio",
-    "location": "Track 1",
+    "location": " Track 1",
     "category": "Android",
     "date": "2017-09-24 10:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=33",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Juan Carlos Paz (Colombia)"
     ]
@@ -366,9 +432,11 @@
     "title": "Una historia de emprendimiento e innovación - Joinnus",
     "type": "Talk",
     "level": "Principiante",
-    "location": "Track 2",
+    "location": " Track 2",
     "category": "General",
     "date": "2017-09-24 10:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=34",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Carolina Botto (Perú)"
     ]
@@ -377,9 +445,11 @@
     "title": "Xamarin con Firebase",
     "type": "Talk",
     "level": "Intermedio",
-    "location": "Track 3",
+    "location": " Track 3",
     "category": "Firebase",
     "date": "2017-09-24 10:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=35",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=70",
     "speaker": [
       "Moises Salazar (Perú)"
     ]
@@ -388,9 +458,11 @@
     "title": "Angular como plataforma",
     "type": "Talk",
     "level": "Principiante",
-    "location": "Track 4",
+    "location": " Track 4",
     "category": "Web",
     "date": "2017-09-24 10:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=36",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=50",
     "speaker": [
       "Juan Carlos Yovera (Perú)"
     ]
@@ -399,9 +471,11 @@
     "title": "¡La educación necesita grandes cambios!",
     "type": "Talk",
     "level": "Principiante",
-    "location": " Auditorio",
+    "location": "Auditorio",
     "category": "General",
     "date": "2017-09-24 11:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=37",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Daniella Garcia (Bolivia)"
     ]
@@ -410,9 +484,11 @@
     "title": "¿Qué, cómo y para qué usar flexbox layout en Android?",
     "type": "Talk",
     "level": "Intermedio",
-    "location": "Track 1",
+    "location": " Track 1",
     "category": "Android",
     "date": "2017-09-24 11:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=38",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Juan Guillermo (Colombia)"
     ]
@@ -421,9 +497,11 @@
     "title": "El mundo blockchain - La tecnología del futuro",
     "type": "Talk",
     "level": "Principiante",
-    "location": "Track 2",
+    "location": " Track 2",
     "category": "General",
     "date": "2017-09-24 11:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=39",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Rosa María Orellana (Perú)"
     ]
@@ -432,9 +510,11 @@
     "title": "Firebase, el servidor se une al juego",
     "type": "Talk",
     "level": "Intermedio",
-    "location": "Track 3",
+    "location": " Track 3",
     "category": "Firebase",
     "date": "2017-09-24 11:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=40",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=70",
     "speaker": [
       "Jorge Cajas (Guatemala)"
     ]
@@ -442,10 +522,12 @@
   {
     "title": "Tag manager y analytics",
     "type": "Talk",
-    "level": "intemerdio",
-    "location": "Track 4",
+    "level": "Intemerdio",
+    "location": " Track 4",
     "category": "Web",
     "date": "2017-09-24 11:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=41",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=50",
     "speaker": [
       "Paul Zúñiga (Perú)"
     ]
@@ -454,9 +536,11 @@
     "title": "Mi primer app usando Bluetooth low energy",
     "type": "Workshop",
     "level": "Intermedio",
-    "location": "Workshop 1",
+    "location": " Workshop 1",
     "category": "Android",
     "date": "2017-09-24 11:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=42",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Diego Ramirez (México)"
     ]
@@ -465,9 +549,11 @@
     "title": "DevOps usando Lego Serious Play",
     "type": "Workshop",
     "level": "Principiante",
-    "location": "Workshop 2",
+    "location": " Workshop 2",
     "category": "General",
     "date": "2017-09-24 11:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=43",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Percy Diez Quiñones (Perú)"
     ]
@@ -476,22 +562,29 @@
     "title": "Panel - Educación Tec",
     "type": "Talk",
     "level": "Principiante",
-    "location": " Auditorio",
+    "location": "Auditorio",
     "category": "General",
     "date": "2017-09-24 12:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=44",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Kike Diaz (México)",
       "Daniella Garcia (Bolivia)",
-      "Alonso Mujica (Perú)"
+      "Alonso Mujica (Perú)",
+      "Diana Tamashiro (Perú)",
+      "José Díaz (Perú)",
+      "Randiel Melgarejo (Perú)"
     ]
   },
   {
     "title": "Lilypad Arduino y Android",
     "type": "Talk",
     "level": "Principiante",
-    "location": "Track 1",
+    "location": " Track 1",
     "category": "Android",
     "date": "2017-09-24 12:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=47",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Iván Aliaga (Perú)"
     ]
@@ -500,9 +593,11 @@
     "title": "Lilypad Arduino y Android",
     "type": "Talk",
     "level": "Principiante",
-    "location": "Track 1",
-    "category": "Internet of things",
+    "location": " Track 1",
+    "category": "Internet of Things",
     "date": "2017-09-24 12:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=48",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=88",
     "speaker": [
       "Iván Aliaga (Perú)"
     ]
@@ -511,9 +606,11 @@
     "title": "10 consejos útiles para contratar un freelance",
     "type": "Talk",
     "level": "Principiante",
-    "location": "Track 2",
+    "location": " Track 2",
     "category": "General",
     "date": "2017-09-24 12:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=49",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Meison Chirinos (Perú)"
     ]
@@ -522,9 +619,11 @@
     "title": "Firebase meets Machine Learning",
     "type": "Talk",
     "level": "Intermedio",
-    "location": "Track 3",
+    "location": " Track 3",
     "category": "Firebase",
     "date": "2017-09-24 12:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=50",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=70",
     "speaker": [
       "Laura Morinigo (Argentina)"
     ]
@@ -533,9 +632,11 @@
     "title": "Firebase meets Machine Learning",
     "type": "Talk",
     "level": "Intermedio",
-    "location": "Track 3",
-    "category": "Artificial intelligence",
+    "location": " Track 3",
+    "category": "Artificial Intelligence",
     "date": "2017-09-24 12:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=51",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=30",
     "speaker": [
       "Laura Morinigo (Argentina)"
     ]
@@ -544,9 +645,11 @@
     "title": "Introducción a Progressive Web Apps",
     "type": "Talk",
     "level": "Principiante",
-    "location": "Track 4",
+    "location": " Track 4",
     "category": "Web",
     "date": "2017-09-24 12:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=52",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=50",
     "speaker": [
       "Juan Carlos Yovera (Perú)"
     ]
@@ -555,9 +658,11 @@
     "title": "Firebase Experiments",
     "type": "Talk",
     "level": "Intermedio",
-    "location": " Auditorio",
+    "location": "Auditorio",
     "category": "Firebase",
     "date": "2017-09-24 14:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=53",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=70",
     "speaker": [
       "Brian Castillo (Perú)"
     ]
@@ -566,9 +671,11 @@
     "title": "Android Auto: Cómo funciona y cómo usarlo",
     "type": "Talk",
     "level": "Principiante",
-    "location": "Track 1",
+    "location": " Track 1",
     "category": "Android",
     "date": "2017-09-24 14:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=54",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Edgar Galván (México)"
     ]
@@ -577,9 +684,11 @@
     "title": "Desafíos y oportunidades de mujeres empresarias creadoras de startups",
     "type": "Talk",
     "level": "Principiante",
-    "location": "Track 2",
+    "location": " Track 2",
     "category": "General",
     "date": "2017-09-24 14:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=55",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Tatiana Santoyo (Colombia)"
     ]
@@ -588,9 +697,11 @@
     "title": "Firebase - Mejores apps mas rápido",
     "type": "Talk",
     "level": "Avanzado",
-    "location": "Track 3",
+    "location": " Track 3",
     "category": "Firebase",
     "date": "2017-09-24 14:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=56",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=70",
     "speaker": [
       "Zig Mandel (Perú)"
     ]
@@ -599,9 +710,11 @@
     "title": "Progressive Web Apps con Firebase",
     "type": "Talk",
     "level": "Intermedio",
-    "location": "Track 4",
+    "location": " Track 4",
     "category": "Web",
     "date": "2017-09-24 14:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=57",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=50",
     "speaker": [
       "William Penagos (Colombia)"
     ]
@@ -610,9 +723,11 @@
     "title": "Android Components Architecture",
     "type": "Workshop",
     "level": "Intermedio",
-    "location": "Workshop 1",
+    "location": " Workshop 1",
     "category": "Android",
     "date": "2017-09-24 14:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=58",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Andres Vasquez (Bolivia)"
     ]
@@ -621,9 +736,11 @@
     "title": "Securing an Android App: The workshop",
     "type": "Workshop",
     "level": "Avanzado",
-    "location": "Workshop 2",
+    "location": " Workshop 2",
     "category": "Android",
     "date": "2017-09-24 14:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=59",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Hansy Schmitt (Perú)"
     ]
@@ -632,9 +749,11 @@
     "title": "Making something people wants y otros secretos de desarrollo de producto",
     "type": "Talk",
     "level": "Intermedio",
-    "location": " Auditorio",
+    "location": "Auditorio",
     "category": "General",
     "date": "2017-09-24 15:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=60",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Kike Diaz (México)"
     ]
@@ -643,9 +762,11 @@
     "title": "¿Qué se necesita para ser un buen desarrollador Android?",
     "type": "Talk",
     "level": "Intermedio",
-    "location": "Track 1",
+    "location": " Track 1",
     "category": "Android",
     "date": "2017-09-24 15:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=61",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Isabel Palomar (México)"
     ]
@@ -654,9 +775,11 @@
     "title": "Validación de ideas de negocio",
     "type": "Talk",
     "level": "Principiante",
-    "location": "Track 2",
+    "location": " Track 2",
     "category": "General",
     "date": "2017-09-24 15:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=62",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Edward Ramirez (Colombia)"
     ]
@@ -665,9 +788,11 @@
     "title": "Machine Learning + Vision API + Firebase + iOS",
     "type": "Talk",
     "level": "Avanzado",
-    "location": "Track 3",
+    "location": " Track 3",
     "category": "Firebase",
     "date": "2017-09-24 15:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=63",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=70",
     "speaker": [
       "Erick Camacho (México)"
     ]
@@ -676,9 +801,11 @@
     "title": "Mi experiencia con ReactJS",
     "type": "Talk",
     "level": "Intermedio",
-    "location": "Track 4",
+    "location": " Track 4",
     "category": "Web",
     "date": "2017-09-24 15:45:00",
+    "cardImage": "https://unsplash.it/313/176?image=64",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=50",
     "speaker": [
       "Leonidas Esteban (Colombia)"
     ]
@@ -690,6 +817,8 @@
     "location": "Auditorio",
     "category": "Android",
     "date": "2017-09-23 17:30:00",
+    "cardImage": "https://unsplash.it/313/176?image=65",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Adrián Catalan (Guatemala)"
     ]
@@ -701,6 +830,8 @@
     "location": "Track 1",
     "category": "Android",
     "date": "2017-09-23 17:30:00",
+    "cardImage": "https://unsplash.it/313/176?image=66",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Edgar Galván (México)"
     ]
@@ -712,6 +843,8 @@
     "location": "Track 2",
     "category": "Cloud",
     "date": "2017-09-23 17:30:00",
+    "cardImage": "https://unsplash.it/313/176?image=67",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=20",
     "speaker": [
       "Juan Ñahui (Perú)"
     ]
@@ -721,8 +854,10 @@
     "type": "Talk",
     "level": "Intermedio",
     "location": "Track 3",
-    "category": "Artificial intelligence",
+    "category": "Artificial Intelligence",
     "date": "2017-09-23 17:30:00",
+    "cardImage": "https://unsplash.it/313/176?image=68",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=30",
     "speaker": [
       "Sofía Martínez (Guatemala)"
     ]
@@ -734,6 +869,8 @@
     "location": "Track 4",
     "category": "General",
     "date": "2017-09-23 17:30:00",
+    "cardImage": "https://unsplash.it/313/176?image=69",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Alonso Mujica (Perú)"
     ]
@@ -745,6 +882,8 @@
     "location": "Track 1",
     "category": "Android",
     "date": "2017-09-23 11:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=70",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=69",
     "speaker": [
       "Kerry Pérez (Perú)"
     ]
@@ -756,6 +895,8 @@
     "location": "Track 2",
     "category": "Cloud",
     "date": "2017-09-23 11:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=71",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=20",
     "speaker": [
       "Manuel Rodríguez (Perú)"
     ]
@@ -767,6 +908,8 @@
     "location": "Track 3",
     "category": "Web",
     "date": "2017-09-23 11:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=72",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=50",
     "speaker": [
       "Juan Oliva (Perú)"
     ]
@@ -778,6 +921,8 @@
     "location": "Track 4",
     "category": "General",
     "date": "2017-09-23 11:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=73",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Elaine Ford (Perú)"
     ]
@@ -789,6 +934,8 @@
     "location": "Workshop 1",
     "category": "General",
     "date": "2017-09-23 11:15:00",
+    "cardImage": "https://unsplash.it/313/176?image=74",
+    "backgroundImage": "https://unsplash.it/2016/1134?image=10",
     "speaker": [
       "Diego Tejada (Perú)"
     ]
