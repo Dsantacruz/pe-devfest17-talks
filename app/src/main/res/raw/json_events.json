@@ -1,0 +1,796 @@
+[
+  {
+    "title": "El desarrollo de un juego AAA en el Perú",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Auditorio",
+    "category": "General",
+    "date": "2017-09-23 10:15:00",
+    "speaker": [
+      "Renzo Sanchez (Perú)"
+    ]
+  },
+  {
+    "title": "Mi primera app con React Native",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 1",
+    "category": "Android",
+    "date": "2017-09-23 10:15:00",
+    "speaker": [
+      "Leonidas Esteban (Colombia)"
+    ]
+  },
+  {
+    "title": "¿Cómo comunicar la tierra con la nube?",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 2",
+    "category": "Web",
+    "date": "2017-09-23 10:15:00",
+    "speaker": [
+      "Jose Luis Bugarin (Perú)"
+    ]
+  },
+  {
+    "title": "Pentesting en Aplicaciones Web",
+    "type": "Talk",
+    "level": "Avanzado",
+    "location": "Track 3",
+    "category": "Web",
+    "date": "2017-09-23 10:15:00",
+    "speaker": [
+      "Eduardo Sarria (Perú)"
+    ]
+  },
+  {
+    "title": "Introducción a Design Thinking",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 4",
+    "category": "General",
+    "date": "2017-09-23 10:15:00",
+    "speaker": [
+      "Romina Díaz (Perú)"
+    ]
+  },
+  {
+    "title": "FaaS (Funciones como Servicio) con Firebase",
+    "type": "Workshop",
+    "level": "Intermedio",
+    "location": "Workshop 2",
+    "category": "Firebase",
+    "date": "2017-09-23 11:15:00",
+    "speaker": [
+      "Juan Guillermo (Colombia)"
+    ]
+  },
+  {
+    "title": "FaaS (Funciones como Servicio) con Firebase",
+    "type": "Workshop",
+    "level": "Intermedio",
+    "location": "Workshop 2",
+    "category": "Cloud",
+    "date": "2017-09-23 11:15:00",
+    "speaker": [
+      "Juan Guillermo (Colombia)"
+    ]
+  },
+  {
+    "title": "Machine Learning con Tensor Flow",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Auditorio",
+    "category": "Artificial intelligence",
+    "date": "2017-09-23 11:15:00",
+    "speaker": [
+      "Pablo Perez De Angelis (Argentina)"
+    ]
+  },
+  {
+    "title": "Arquitectura de soluciones móviles con Android",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 1",
+    "category": "Android",
+    "date": "2017-09-23 12:15:00",
+    "speaker": [
+      "Pablo Johnson (Perú)"
+    ]
+  },
+  {
+    "title": "React vs Angular en el mundo real",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 2",
+    "category": "Web",
+    "date": "2017-09-23 12:15:00",
+    "speaker": [
+      "Luis Suárez (Perú)"
+    ]
+  },
+  {
+    "title": "La seguridad como un hábito cotidiano",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 3",
+    "category": "Cloud",
+    "date": "2017-09-23 12:15:00",
+    "speaker": [
+      "Isabel Falla (Perú)"
+    ]
+  },
+  {
+    "title": "Introducción a las Plataformas E-learning. Caso: ChamiloLMS",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 4",
+    "category": "Web",
+    "date": "2017-09-23 12:15:00",
+    "speaker": [
+      "Michela Mosquera (Perú)"
+    ]
+  },
+  {
+    "title": "Transformación Digital",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 4",
+    "category": "General",
+    "date": "2017-09-23 12:15:00",
+    "speaker": [
+      "Edward Ramirez (Colombia)"
+    ]
+  },
+  {
+    "title": "¡Yo también quiero usar Kotlin!",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 1",
+    "category": "Android",
+    "date": "2017-09-23 14:15:00",
+    "speaker": [
+      "Bruno Aybar (Perú)"
+    ]
+  },
+  {
+    "title": "Exploratory testing in Agile",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 2",
+    "category": "Web",
+    "date": "2017-09-23 14:15:00",
+    "speaker": [
+      "Katherine Moran (Perú)"
+    ]
+  },
+  {
+    "title": "Análisis de sentimientos basado en patrones de personalidad usando I.A",
+    "type": "Talk",
+    "level": "Avanzado",
+    "location": "Track 3",
+    "category": "Artificial intelligence",
+    "date": "2017-09-23 14:15:00",
+    "speaker": [
+      "Moises Salinas (Perú)"
+    ]
+  },
+  {
+    "title": "Cuando la idea conoce al código",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 4",
+    "category": "General",
+    "date": "2017-09-23 14:15:00",
+    "speaker": [
+      "Renzo Reyes (Perú)"
+    ]
+  },
+  {
+    "title": "Android: Es turno de Android TV",
+    "type": "Workshop",
+    "level": "Intermedio",
+    "location": "Workshop 1",
+    "category": "Android",
+    "date": "2017-09-23 14:15:00",
+    "speaker": [
+      "Marlon López (Colombia)"
+    ]
+  },
+  {
+    "title": "VR para principiantes",
+    "type": "Workshop",
+    "level": "Principiante",
+    "location": "Workshop 2",
+    "category": "General",
+    "date": "2017-09-23 14:15:00",
+    "speaker": [
+      "Elvis Rivera (Perú)"
+    ]
+  },
+  {
+    "title": "El futuro del dinero",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Auditorio",
+    "category": "General",
+    "date": "2017-09-23 15:15:00",
+    "speaker": [
+      "Danhalit Zamalloa (Venezuela)"
+    ]
+  },
+  {
+    "title": "Trabajando con Dagger 2 y Kotlin",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 1",
+    "category": "Android",
+    "date": "2017-09-23 15:15:00",
+    "speaker": [
+      "Kevin Salazar (Perú)"
+    ]
+  },
+  {
+    "title": "El estado de Go",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 2",
+    "category": "Web",
+    "date": "2017-09-23 15:15:00",
+    "speaker": [
+      "Chris Ramón (Perú)"
+    ]
+  },
+  {
+    "title": "Sumergiéndonos en Deep Learning (sin ahogarse en el intento)",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 3",
+    "category": "Artificial intelligence",
+    "date": "2017-09-23 15:15:00",
+    "speaker": [
+      "Bonnie Milián (Guatemala)"
+    ]
+  },
+  {
+    "title": "Cómo hacer que Android te pague la comida",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "",
+    "category": "Android",
+    "date": "2017-09-23 15:15:00",
+    "speaker": [
+      "Andres Vasquez (Bolivia)"
+    ]
+  },
+  {
+    "title": "La industria de los videojuegos en Latinoamérica",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Auditorio",
+    "category": "General",
+    "date": "2017-09-23 16:30:00",
+    "speaker": [
+      "Phillip Chu Joy (Perú)"
+    ]
+  },
+  {
+    "title": "Google Beacons",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 1",
+    "category": "Android",
+    "date": "2017-09-23 16:30:00",
+    "speaker": [
+      "Axel Campos (Perú)"
+    ]
+  },
+  {
+    "title": "Escalamiento de servicios con Docker",
+    "type": "Talk",
+    "level": "Avanzado",
+    "location": "Track 2",
+    "category": "Cloud",
+    "date": "2017-09-23 16:30:00",
+    "speaker": [
+      "Kenny Condezo (Perú)"
+    ]
+  },
+  {
+    "title": "Desarrollo y despliegue de bots con IA usando serverles",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 3",
+    "category": "Artificial intelligence",
+    "date": "2017-09-23 16:30:00",
+    "speaker": [
+      "Miguel Aliaga (Perú)"
+    ]
+  },
+  {
+    "title": "¿Cómo llevar una comunidad de tecnología?",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 4",
+    "category": "General",
+    "date": "2017-09-23 16:30:00",
+    "speaker": [
+      "Laura Santillán (Perú)"
+    ]
+  },
+  {
+    "title": "Deep Learning: Introducción desde cero a TFLearn",
+    "type": "Workshop",
+    "level": "Intermedio",
+    "location": "Workshop 1",
+    "category": "Artificial intelligence",
+    "date": "2017-09-23 16:30:00",
+    "speaker": [
+      "Bonnie Milián (Guatemala)"
+    ]
+  },
+  {
+    "title": "Design Sprint en 5 pasos",
+    "type": "Workshop",
+    "level": "Principiante",
+    "location": "Workshop 2",
+    "category": "General",
+    "date": "2017-09-23 16:30:00",
+    "speaker": [
+      "Juan Camilo Lema (Perú)"
+    ]
+  },
+  {
+    "title": "Inteligencia Artificial y Chatbots",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": " Auditorio",
+    "category": "Internet of things",
+    "date": "2017-09-24 10:45:00",
+    "speaker": [
+      "Carlos Cortez (Perú)"
+    ]
+  },
+  {
+    "title": "BLE Beacons y Más",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 1",
+    "category": "Android",
+    "date": "2017-09-24 10:45:00",
+    "speaker": [
+      "Juan Carlos Paz (Colombia)"
+    ]
+  },
+  {
+    "title": "Una historia de emprendimiento e innovación - Joinnus",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 2",
+    "category": "General",
+    "date": "2017-09-24 10:45:00",
+    "speaker": [
+      "Carolina Botto (Perú)"
+    ]
+  },
+  {
+    "title": "Xamarin con Firebase",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 3",
+    "category": "Firebase",
+    "date": "2017-09-24 10:45:00",
+    "speaker": [
+      "Moises Salazar (Perú)"
+    ]
+  },
+  {
+    "title": "Angular como plataforma",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 4",
+    "category": "Web",
+    "date": "2017-09-24 10:45:00",
+    "speaker": [
+      "Juan Carlos Yovera (Perú)"
+    ]
+  },
+  {
+    "title": "¡La educación necesita grandes cambios!",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": " Auditorio",
+    "category": "General",
+    "date": "2017-09-24 11:45:00",
+    "speaker": [
+      "Daniella Garcia (Bolivia)"
+    ]
+  },
+  {
+    "title": "¿Qué, cómo y para qué usar flexbox layout en Android?",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 1",
+    "category": "Android",
+    "date": "2017-09-24 11:45:00",
+    "speaker": [
+      "Juan Guillermo (Colombia)"
+    ]
+  },
+  {
+    "title": "El mundo blockchain - La tecnología del futuro",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 2",
+    "category": "General",
+    "date": "2017-09-24 11:45:00",
+    "speaker": [
+      "Rosa María Orellana (Perú)"
+    ]
+  },
+  {
+    "title": "Firebase, el servidor se une al juego",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 3",
+    "category": "Firebase",
+    "date": "2017-09-24 11:45:00",
+    "speaker": [
+      "Jorge Cajas (Guatemala)"
+    ]
+  },
+  {
+    "title": "Tag manager y analytics",
+    "type": "Talk",
+    "level": "intemerdio",
+    "location": "Track 4",
+    "category": "Web",
+    "date": "2017-09-24 11:45:00",
+    "speaker": [
+      "Paul Zúñiga (Perú)"
+    ]
+  },
+  {
+    "title": "Mi primer app usando Bluetooth low energy",
+    "type": "Workshop",
+    "level": "Intermedio",
+    "location": "Workshop 1",
+    "category": "Android",
+    "date": "2017-09-24 11:45:00",
+    "speaker": [
+      "Diego Ramirez (México)"
+    ]
+  },
+  {
+    "title": "DevOps usando Lego Serious Play",
+    "type": "Workshop",
+    "level": "Principiante",
+    "location": "Workshop 2",
+    "category": "General",
+    "date": "2017-09-24 11:45:00",
+    "speaker": [
+      "Percy Diez Quiñones (Perú)"
+    ]
+  },
+  {
+    "title": "Panel - Educación Tec",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": " Auditorio",
+    "category": "General",
+    "date": "2017-09-24 12:45:00",
+    "speaker": [
+      "Kike Diaz (México)",
+      "Daniella Garcia (Bolivia)",
+      "Alonso Mujica (Perú)"
+    ]
+  },
+  {
+    "title": "Lilypad Arduino y Android",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 1",
+    "category": "Android",
+    "date": "2017-09-24 12:45:00",
+    "speaker": [
+      "Iván Aliaga (Perú)"
+    ]
+  },
+  {
+    "title": "Lilypad Arduino y Android",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 1",
+    "category": "Internet of things",
+    "date": "2017-09-24 12:45:00",
+    "speaker": [
+      "Iván Aliaga (Perú)"
+    ]
+  },
+  {
+    "title": "10 consejos útiles para contratar un freelance",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 2",
+    "category": "General",
+    "date": "2017-09-24 12:45:00",
+    "speaker": [
+      "Meison Chirinos (Perú)"
+    ]
+  },
+  {
+    "title": "Firebase meets Machine Learning",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 3",
+    "category": "Firebase",
+    "date": "2017-09-24 12:45:00",
+    "speaker": [
+      "Laura Morinigo (Argentina)"
+    ]
+  },
+  {
+    "title": "Firebase meets Machine Learning",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 3",
+    "category": "Artificial intelligence",
+    "date": "2017-09-24 12:45:00",
+    "speaker": [
+      "Laura Morinigo (Argentina)"
+    ]
+  },
+  {
+    "title": "Introducción a Progressive Web Apps",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 4",
+    "category": "Web",
+    "date": "2017-09-24 12:45:00",
+    "speaker": [
+      "Juan Carlos Yovera (Perú)"
+    ]
+  },
+  {
+    "title": "Firebase Experiments",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": " Auditorio",
+    "category": "Firebase",
+    "date": "2017-09-24 14:45:00",
+    "speaker": [
+      "Brian Castillo (Perú)"
+    ]
+  },
+  {
+    "title": "Android Auto: Cómo funciona y cómo usarlo",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 1",
+    "category": "Android",
+    "date": "2017-09-24 14:45:00",
+    "speaker": [
+      "Edgar Galván (México)"
+    ]
+  },
+  {
+    "title": "Desafíos y oportunidades de mujeres empresarias creadoras de startups",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 2",
+    "category": "General",
+    "date": "2017-09-24 14:45:00",
+    "speaker": [
+      "Tatiana Santoyo (Colombia)"
+    ]
+  },
+  {
+    "title": "Firebase - Mejores apps mas rápido",
+    "type": "Talk",
+    "level": "Avanzado",
+    "location": "Track 3",
+    "category": "Firebase",
+    "date": "2017-09-24 14:45:00",
+    "speaker": [
+      "Zig Mandel (Perú)"
+    ]
+  },
+  {
+    "title": "Progressive Web Apps con Firebase",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 4",
+    "category": "Web",
+    "date": "2017-09-24 14:45:00",
+    "speaker": [
+      "William Penagos (Colombia)"
+    ]
+  },
+  {
+    "title": "Android Components Architecture",
+    "type": "Workshop",
+    "level": "Intermedio",
+    "location": "Workshop 1",
+    "category": "Android",
+    "date": "2017-09-24 14:45:00",
+    "speaker": [
+      "Andres Vasquez (Bolivia)"
+    ]
+  },
+  {
+    "title": "Securing an Android App: The workshop",
+    "type": "Workshop",
+    "level": "Avanzado",
+    "location": "Workshop 2",
+    "category": "Android",
+    "date": "2017-09-24 14:45:00",
+    "speaker": [
+      "Hansy Schmitt (Perú)"
+    ]
+  },
+  {
+    "title": "Making something people wants y otros secretos de desarrollo de producto",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": " Auditorio",
+    "category": "General",
+    "date": "2017-09-24 15:45:00",
+    "speaker": [
+      "Kike Diaz (México)"
+    ]
+  },
+  {
+    "title": "¿Qué se necesita para ser un buen desarrollador Android?",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 1",
+    "category": "Android",
+    "date": "2017-09-24 15:45:00",
+    "speaker": [
+      "Isabel Palomar (México)"
+    ]
+  },
+  {
+    "title": "Validación de ideas de negocio",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 2",
+    "category": "General",
+    "date": "2017-09-24 15:45:00",
+    "speaker": [
+      "Edward Ramirez (Colombia)"
+    ]
+  },
+  {
+    "title": "Machine Learning + Vision API + Firebase + iOS",
+    "type": "Talk",
+    "level": "Avanzado",
+    "location": "Track 3",
+    "category": "Firebase",
+    "date": "2017-09-24 15:45:00",
+    "speaker": [
+      "Erick Camacho (México)"
+    ]
+  },
+  {
+    "title": "Mi experiencia con ReactJS",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 4",
+    "category": "Web",
+    "date": "2017-09-24 15:45:00",
+    "speaker": [
+      "Leonidas Esteban (Colombia)"
+    ]
+  },
+  {
+    "title": "Cómo percibe Android el mundo exterior",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Auditorio",
+    "category": "Android",
+    "date": "2017-09-23 17:30:00",
+    "speaker": [
+      "Adrián Catalan (Guatemala)"
+    ]
+  },
+  {
+    "title": "Aplicaciones para personas discapacitadas",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 1",
+    "category": "Android",
+    "date": "2017-09-23 17:30:00",
+    "speaker": [
+      "Edgar Galván (México)"
+    ]
+  },
+  {
+    "title": "A veces la robótica es mas arte que robótica",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 2",
+    "category": "Cloud",
+    "date": "2017-09-23 17:30:00",
+    "speaker": [
+      "Juan Ñahui (Perú)"
+    ]
+  },
+  {
+    "title": "My Bot is smarter than yours: aprendiendo AI con TJBot",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 3",
+    "category": "Artificial intelligence",
+    "date": "2017-09-23 17:30:00",
+    "speaker": [
+      "Sofía Martínez (Guatemala)"
+    ]
+  },
+  {
+    "title": "¿Por qué enseñar pensamiento computacional en la secundaria?",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 4",
+    "category": "General",
+    "date": "2017-09-23 17:30:00",
+    "speaker": [
+      "Alonso Mujica (Perú)"
+    ]
+  },
+  {
+    "title": "Android Things, que no panda el cúnico",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 1",
+    "category": "Android",
+    "date": "2017-09-23 11:15:00",
+    "speaker": [
+      "Kerry Pérez (Perú)"
+    ]
+  },
+  {
+    "title": "Como hacer autoscaling con Computer Engine",
+    "type": "Talk",
+    "level": "Intermedio",
+    "location": "Track 2",
+    "category": "Cloud",
+    "date": "2017-09-23 11:15:00",
+    "speaker": [
+      "Manuel Rodríguez (Perú)"
+    ]
+  },
+  {
+    "title": "Hacking a Webservices",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 3",
+    "category": "Web",
+    "date": "2017-09-23 11:15:00",
+    "speaker": [
+      "Juan Oliva (Perú)"
+    ]
+  },
+  {
+    "title": "La tecnología para empoderar a los ciudadanos",
+    "type": "Talk",
+    "level": "Principiante",
+    "location": "Track 4",
+    "category": "General",
+    "date": "2017-09-23 11:15:00",
+    "speaker": [
+      "Elaine Ford (Perú)"
+    ]
+  },
+  {
+    "title": "Creatividad bajo la Metodología Lego Serious Play",
+    "type": "Workshop",
+    "level": "Principiante",
+    "location": "Workshop 1",
+    "category": "General",
+    "date": "2017-09-23 11:15:00",
+    "speaker": [
+      "Diego Tejada (Perú)"
+    ]
+  }
+]
