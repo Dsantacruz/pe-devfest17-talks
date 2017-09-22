@@ -16,7 +16,13 @@ import java.io.Writer;
  * Utility class for reading from a JSON resource file and constructing an object from that resource file using Gson.
  */
 public final class JSONResourceReader {
+    /**
+     * The Logtag.
+     */
     private static final String LOGTAG = JSONResourceReader.class.getSimpleName();
+    /**
+     * The Json string.
+     */
     private String jsonString;
 
     /**
@@ -52,6 +58,7 @@ public final class JSONResourceReader {
     /**
      * Build an object from the specified JSON resource using Gson.
      *
+     * @param <T>  the type parameter
      * @param type The type of the object to build.
      * @return An object of type T, with member fields populated using Gson.
      */

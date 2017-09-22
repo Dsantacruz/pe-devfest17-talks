@@ -1,8 +1,11 @@
 <resources>
     <string name="app_name">Devfest Talks</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="catalog_title">Hi from DevFest</string>
-    <string name="catalog_items_image_url">http://lorempixel.com/313/176/</string>
+    <string name="detail_default_description">
+        <![CDATA[
+        Sed venenatis leo eget arcu auctor, sed pellentesque tellus pulvinar. Curabitur consequat nulla ligula, sed suscipit lacus tempor eu. Nulla malesuada erat ac mauris molestie, id rutrum ipsum varius. Nam sit amet velit id sem maximus semper. Integer imperdiet euismod urna sit amet commodo. Praesent vulputate metus arcu, quis laoreet tortor porttitor sed. Donec tempus mauris erat, vel varius mauris euismod id. Vivamus nibh orci, porta quis ullamcorper at, tempus id nisi. Sed vitae neque faucibus, gravida lectus at, malesuada massa. Mauris efficitur venenatis mauris congue pretium. Etiam sit amet velit ipsum.
+        ]]>
+    </string>
+    <string name="playback_dummy_videoclip_url">https://storage.googleapis.com/android-tv/Sample%20videos/Google+/Google+_%20Sharing%20but%20like%20real%20life.mp4</string>
 </resources>

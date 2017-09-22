@@ -8,7 +8,6 @@
     <uses-feature
         android:name="android.software.leanback"
         android:required="true" />
-
     <uses-feature
         android:name="android.hardware.touchscreen"
         android:required="false" />
@@ -21,7 +20,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-
         <activity android:name=".ui.catalog.HomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -30,6 +28,13 @@
             </intent-filter>
         </activity>
         <activity android:name=".ui.details.EventDetailsActivity" />
+        <activity
+            android:name=".ui.playback.PlaybackOverlayActivity"
+            android:configChanges="screenSize|smallestScreenSize|screenLayout|orientation"
+            android:launchMode="singleTask"
+            android:resizeableActivity="true"
+            android:supportsPictureInPicture="true"
+            tools:targetApi="n" />
     </application>
 
 </manifest>

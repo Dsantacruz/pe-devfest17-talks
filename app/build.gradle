@@ -26,5 +26,7 @@ dependencies {
     implementation 'com.google.code.gson:gson:2.8.2'
     /*glide*/
     implementation 'com.github.bumptech.glide:glide:4.1.1'
+    /*exoplayer*/
+    implementation 'com.google.android.exoplayer:exoplayer:r2.5.1'
 
 }
