@@ -1,5 +1,6 @@
 package pe.gdg.workshops.devfesttalks.ui.catalog;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v17.leanback.app.BackgroundManager;
@@ -11,7 +12,6 @@ import android.support.v17.leanback.widget.ListRowPresenter;
 import android.support.v4.content.ContextCompat;
 import android.util.DisplayMetrics;
 import android.view.View;
-import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -21,9 +21,10 @@ import java.util.List;
 
 import pe.gdg.workshops.devfesttalks.R;
 import pe.gdg.workshops.devfesttalks.data.models.Event;
-import pe.gdg.workshops.devfesttalks.data.network.EventsAsyncTask;
+import pe.gdg.workshops.devfesttalks.data.network.EventsCatalogAsyncTask;
 import pe.gdg.workshops.devfesttalks.listeners.catalog.CatalogCardClickedListener;
 import pe.gdg.workshops.devfesttalks.presenters.catalog.CatalogCardPresenter;
+import pe.gdg.workshops.devfesttalks.ui.search.SearchActivity;
 
 /**
  * Catalog for Home Fragment class.
@@ -71,7 +72,7 @@ public class HomeFragment extends BrowseFragment {
      */
     protected void cargarDatos() {
         rowsAdapter = new ArrayObjectAdapter(new ListRowPresenter());
-        new EventsAsyncTask(getActivity(), new EventsAsyncTask.EventsAsyncTaskListener() {
+        new EventsCatalogAsyncTask(getActivity(), new EventsCatalogAsyncTask.CatalogTaskListener() {
             @Override
             public void onPostExecute(List<Event> events) {
                 rowsAdapter.clear();
@@ -130,7 +131,8 @@ public class HomeFragment extends BrowseFragment {
         setOnSearchClickedListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(getActivity(), "Search button clicked", Toast.LENGTH_LONG).show();
+                final Intent intent = new Intent(getActivity(), SearchActivity.class);
+                startActivity(intent);
             }
         });
     }

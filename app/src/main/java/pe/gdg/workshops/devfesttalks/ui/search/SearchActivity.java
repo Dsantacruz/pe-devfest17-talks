@@ -1,21 +1,21 @@
-package pe.gdg.workshops.devfesttalks.ui.catalog;
+package pe.gdg.workshops.devfesttalks.ui.search;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.annotation.Nullable;
 
 import pe.gdg.workshops.devfesttalks.R;
-import pe.gdg.workshops.devfesttalks.ui.search.SearchActivity;
 
 /**
- * The type Home activity.
+ * The type Search activity.
  */
-public class HomeActivity extends Activity {
+public class SearchActivity extends Activity {
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_home);
+        setContentView(R.layout.activity_search);
     }
 
     @Override
@@ -23,5 +23,4 @@ public class HomeActivity extends Activity {
         startActivity(new Intent(this, SearchActivity.class));
         return true;
     }
-
 }

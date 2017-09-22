@@ -8,4 +8,5 @@
         ]]>
     </string>
     <string name="playback_dummy_videoclip_url">https://storage.googleapis.com/android-tv/Sample%20videos/Google+/Google+_%20Sharing%20but%20like%20real%20life.mp4</string>
+    <string name="text_search_results">Resultados de la busqueda</string>
 </resources>

@@ -3,7 +3,7 @@ package pe.gdg.workshops.devfesttalks.data.network;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.os.AsyncTask;
-import android.util.Log;
+import android.support.annotation.NonNull;
 
 import java.util.Arrays;
 import java.util.List;
@@ -15,11 +15,18 @@ import pe.gdg.workshops.devfesttalks.data.utils.JSONResourceReader;
 /**
  * Asyntask for loading events
  */
-public class EventsAsyncTask extends AsyncTask<Void, Integer, List<Event>> {
+public class EventsCatalogAsyncTask extends AsyncTask<Void, Integer, List<Event>> {
 
+    /**
+     * The M context.
+     */
     @SuppressLint("StaticFieldLeak")
     private final Context mContext;
-    private EventsAsyncTaskListener callback;
+    /**
+     * The Callback.
+     */
+    @NonNull
+    private CatalogTaskListener callback;
 
     /**
      * Instantiates a new Events async task.
@@ -27,7 +34,7 @@ public class EventsAsyncTask extends AsyncTask<Void, Integer, List<Event>> {
      * @param mContext the app context
      * @param callback the callback
      */
-    public EventsAsyncTask(Context mContext, EventsAsyncTaskListener callback) {
+    public EventsCatalogAsyncTask(Context mContext, @NonNull CatalogTaskListener callback) {
         this.mContext = mContext;
         this.callback = callback;
     }
@@ -42,15 +49,13 @@ public class EventsAsyncTask extends AsyncTask<Void, Integer, List<Event>> {
     @Override
     protected void onPostExecute(List<Event> events) {
         super.onPostExecute(events);
-        if (callback != null) {
-            callback.onPostExecute(events);
-        }
+        callback.onPostExecute(events);
     }
 
     /**
-     * The interface Events async task listener.
+     * The interface Catalog task listener.
      */
-    public interface EventsAsyncTaskListener {
+    public interface CatalogTaskListener {
         /**
          * On post execute.
          *
